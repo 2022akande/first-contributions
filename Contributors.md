@@ -5453,6 +5453,7 @@
 - [Tyler Crites](https://github.com/zebbzz)
 - [Ranjith Palanisamy](https://github.com/rr2013)
 - [Sina Kabki](https://github.com/sinacodes95)
+- [Edward Akande](https://github.com/2022akande)
 - [Sina Scheckenbach](https://github.com/Sina-Sche)
 - [Damian Young](https://github.com/minedude12)
 - [LelPel](https://github.com/lelpel)
